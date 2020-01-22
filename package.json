@@ -1,0 +1,17 @@
+{
+  "name": "metacritic-scrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "bin": {
+    "my-module": "bin/metacritic-scrap.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "preferGlobal": "true",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "https": "^1.0.0"
+  }
+}
